@@ -7,4 +7,6 @@ In this portfolio, I have included data projects that showcase my technical skil
 
 ## SQL Projects
 ### [Instagram Analysis](https://github.com/aliyanarman/Instagram-DB-Analysis/tree/main)
-A collection of SQL queries designed to analyze Instagram's data for marketing insights and investor metrics. This project demonstrates practical data analysis techniques for user engagement, content performance, and platform health monitoring.
+In this project I am designing SQL queries to analyze Instagram's data for marketing insights and investor metrics. The project demonstrates practical data analysis techniques for user engagement, content performance, and platform health monitoring.
+### [Education System Analysis](https://github.com/aliyanarman/Education-System-Analysis)
+In this project I am analyzing Massachusetts public school data including expenditures, graduation rates, and district performance metrics to support decision-making for parents, educators, and policymakers.
