@@ -3,7 +3,7 @@
 ## About
 My name is Aliyan, I am a business analyst proficient in SQL, Python, PowerBI, and Excel with strong understanding of data analytics techniques including, but not limited to, data preparation, data wrangling, building dashboards/reports, data storytelling.
 
-In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. You will find documents, workbooks, and dashboards created with SQL, PowerBI, Excel (PowerPivot/PowerQuery/DAX). These projects demonstrate my ability to organize, analyze, and present data in a clear way, making it easy for stakeholders to make informed decisions.
+In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. These projects demonstrate my ability to organize, analyze, and present data in a clear way, making it easy for stakeholders to make informed decisions.
 
 ## SQL Projects
 ### [Instagram Analysis](https://github.com/aliyanarman/Instagram-DB-Analysis/tree/main)
