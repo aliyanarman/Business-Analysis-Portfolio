@@ -10,7 +10,7 @@ My name is Aliyan, I am a data analyst proficient in SQL, Python, Excel and Powe
 In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. These projects demonstrate my ability to organize, analyze, and present data in a clear way, such that stakeholders make important decisions easily.
 
 ## SQL Projects
-### [Education System Analysis](https://github.com/aliyanarman/Education-System-Analysis)
+### [Education System Analysis (USA)](https://github.com/aliyanarman/Education-System-Analysis)
 In this project I am analyzing Massachusetts public school data including expenditures, graduation rates, and district performance metrics to support decision-making for parents, educators, and policymakers. [Workbook Here](https://github.com/aliyanarman/Education-System-Analysis/blob/main/Analysis/Schools_Analysis.sql)
 ### [Consumer Analysis (Instagram)](https://github.com/aliyanarman/Instagram-DB-Analysis/tree/main)
 In this project I am designing SQL queries to analyze Instagram's data for marketing insights and investor metrics. The project demonstrates practical data analysis techniques for user engagement, content performance, and platform health monitoring. [Workbook Here](https://github.com/aliyanarman/Instagram-DB-Analysis/blob/main/analysis/instagram_analysis.sql)
