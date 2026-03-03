@@ -4,10 +4,18 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 ## About
 My name is Aliyan, I am a data analyst proficient in SQL, Python, Excel and PowerBI with strong understanding of data analytics techniques including, but not limited to, data preparation, data wrangling, business intelligence.
 
 In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. These projects demonstrate my ability to organize, analyze, and present data in a clear way, such that stakeholders make important decisions easily.
+
+## Flagship Project
+### [Alight](https://github.com/aliyanarman/Pocket-Financial-Analyst/blob/main/README.md)
+Designed and built a pocket financial analyst app according to the needs of finance / private equity / investment banking.
+Integrated Google Gemini to generate industry-standard memorandums citing
+real market comparables, adjusting returns for country-specific factors (inflation,
+taxes, tariffs) across 4 countries and 6 industries.
 
 ## SQL Projects
 ### [Education System Analysis (USA)](https://github.com/aliyanarman/Education-System-Analysis)
