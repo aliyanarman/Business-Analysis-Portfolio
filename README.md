@@ -11,20 +11,19 @@ In this portfolio, I have included data projects that showcase my technical skil
 
 ## SQL Projects
 ### [Education System Analysis (USA)](https://github.com/aliyanarman/Education-System-Analysis)
-In this project I am analyzing Massachusetts public school data including expenditures, graduation rates, and district performance metrics to support decision-making for parents, educators, and policymakers. [Workbook Here](https://github.com/aliyanarman/Education-System-Analysis/blob/main/Analysis/Schools_Analysis.sql)
+In this project I am analyzing Massachusetts public school data including expenditures, graduation rates, and district performance metrics to support decision-making for parents, educators, and policymakers.
 ### [Consumer Analysis (Instagram)](https://github.com/aliyanarman/Instagram-DB-Analysis/tree/main)
-In this project I am designing SQL queries to analyze Instagram's data for marketing insights and investor metrics. The project demonstrates practical data analysis techniques for user engagement, content performance, and platform health monitoring. [Workbook Here](https://github.com/aliyanarman/Instagram-DB-Analysis/blob/main/analysis/instagram_analysis.sql)
+In this project I am designing SQL queries to analyze Instagram's data for marketing insights and investor metrics. The project demonstrates practical data analysis techniques for user engagement, content performance, and platform health monitoring. 
 ### [Team Analysis (Baseball)](https://github.com/aliyanarman/Baseball-Database-Analytics/tree/main)
-A project where I extracts insights to analyze performance, team statistics, and salary data to support strategic decision-making in player recruitment, budget allocation, and performance evaluation. [Workbook Here](https://github.com/aliyanarman/Baseball-Database-Analytics/blob/main/Analysis/baseball.sql)
+A project where I extracts insights to analyze performance, team statistics, and salary data to support strategic decision-making in player recruitment, budget allocation, and performance evaluation. 
 
 ## Python (Pandas)
 ### [Hotel Data Cleaning](https://github.com/aliyanarman/py-hotel-data-cleaning/tree/main)
-This project focuses on data hygiene and logical consistency for a hotel booking dataset using pandas library. The goal is to resolve common real world data quality issues before analysis or modeling. [Notebook Here](https://github.com/aliyanarman/py-hotel-data-cleaning/blob/main/hotel_data_cleaning.ipynb)
+This project focuses on data hygiene and logical consistency for a hotel booking dataset using pandas library. The goal is to resolve common real world data quality issues before analysis or modeling.
 
 
 ### [Healthcare Survey Analysis (US)](https://github.com/aliyanarman/Healthcare-Survey-Analysis-/blob/main/README.md)
 This project analyzes patient survey data that reflects how people felt about their hospital stay, including communication with doctors and nurses and overall care experience. The data comes from a nationwide patient survey conducted by the HCAHPS which is a national, standardized survey of hospital patients about their experiences during a recent inpatient hospital stay.
-[Notebook Here](https://github.com/aliyanarman/Healthcare-Survey-Analysis-/blob/main/HCAHPS-National.ipynb)
 
 ### [Staff Data Cleanup](https://github.com/aliyanarman/Organization-Data-Cleanup/blob/main/README.md)
-Data cleaning of raw employee data of a company using pandas library inside jupyter notebooks. The goal is to understand the dataset structure, identify anomalies, and generate meaningful business-ready insights before modeling. [Notebook Here](https://github.com/aliyanarman/Organization-Data-Cleanup/blob/main/Analysis/EDA%20day%201%20(1).ipynb)
+Data cleaning of raw employee data of a company using pandas library inside jupyter notebooks. The goal is to understand the dataset structure, identify anomalies, and generate meaningful business-ready insights before modeling.
